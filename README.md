@@ -30,6 +30,6 @@ https://mi-pentagrama-musical-390ldnxio.vercel.app/
 3. Haz clic sobre el pentagrama para posicionar el elemento.
 4. Presiona **"Reproducir melodía"** para escuchar tu creación.
 <img width="797" height="920" alt="image" src="https://github.com/user-attachments/assets/c5bd37bb-d1e6-40e4-976d-de7119c9bd33" />
-https://mi-pentagrama-musical-390ldnxio.vercel.app/
+
 ---
 *Desarrollado por Guillermo Coronel - Proyectos "Sensitive World"*
