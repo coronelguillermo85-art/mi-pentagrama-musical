@@ -5,6 +5,9 @@ Una herramienta educativa e interactiva diseñada para la enseñanza y práctica
 
 Como estudiante de **Relaciones Públicas (UNLaM)** y apasionado por la producción musical, desarrollé esta interfaz para cerrar la brecha entre la teoría musical y la interactividad digital.
 
+https://mi-pentagrama-musical-390ldnxio.vercel.app/
+
+
 ## 🚀 Funcionalidades Clave
 - **Edición en tiempo real:** Colocación dinámica de notas (desde Do4 hasta Do6) sobre un Canvas de HTML5.
 - **Motor de Audio:** Uso de `Web Audio API` para generar frecuencias sinusoidales precisas según la nota y duración seleccionada.
@@ -26,6 +29,7 @@ Como estudiante de **Relaciones Públicas (UNLaM)** y apasionado por la producci
 2. Elige una **Figura o Silencio** de la paleta.
 3. Haz clic sobre el pentagrama para posicionar el elemento.
 4. Presiona **"Reproducir melodía"** para escuchar tu creación.
-
+<img width="797" height="920" alt="image" src="https://github.com/user-attachments/assets/c5bd37bb-d1e6-40e4-976d-de7119c9bd33" />
+https://mi-pentagrama-musical-390ldnxio.vercel.app/
 ---
 *Desarrollado por Guillermo Coronel - Proyectos "Sensitive World"*
